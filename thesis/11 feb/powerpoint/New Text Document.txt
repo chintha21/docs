@@ -1,0 +1,34 @@
+Slide 1: Title Slide
+
+Title: "Sinhala Book Recommendation Project"
+Subtitle: "Exploring Literature and Technology"
+Your Name and Affiliation
+Date
+Slide 2: Introduction (1 minute)
+
+Briefly introduce the project and its significance.
+Highlight the research gap in Sinhala book recommendation.
+Present the research questions you aim to address.
+Slide 3: Literature Review (3 minutes)
+
+Summarize key findings from the literature related to Sinhala book recommendation.
+Highlight existing challenges and gaps in current approaches.
+Identify relevant studies or technologies that inspired your project.
+Slide 4: Methodology (2 minutes)
+
+Justify your selected approach for the project.
+Discuss the reasoning behind your chosen methodology.
+Explain how your methodology addresses the identified research gap.
+Slide 5-6: Demonstrate Your Prototype (12 minutes)
+
+Provide an overview of your prototype and its main features.
+Showcase the user interface and functionality.
+Use screenshots, diagrams, or flowcharts to illustrate the system's workflow.
+Walk through a typical user interaction with the system.
+Highlight any innovative or unique aspects of your prototype.
+Slide 7: Evaluation Techniques (2 minutes)
+
+Discuss the criteria and metrics you used to evaluate your system.
+Explain the reasoning behind your chosen evaluation techniques.
+Present any results or insights gained from the evaluation.
+Remember to keep the text on each slide concise and use visuals to enhance understanding. You can add bullet points, images, charts, or graphs to make your presentation more engaging. Good luck with your presentation!

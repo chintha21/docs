@@ -1,0 +1,13 @@
+Thesis Evaluation Criteria
+Quality of the Abstract (begin with a precise statement of the problem or issue, followed by a description of the methodology and design and concluded with a description of major findings)
+General introduction to the problem (presented the problem in sufficient detail)
+Motivation, Aims and Objectives of the Project
+Scope of the project
+Literature Review (Good selection of related work, Quality of the literature review, Identification of the research gap)
+Methodology (Adherence to the scientific method or Approach, Description of conceptual model or design, Experiments / Implementation details)
+Evaluation (Proof of validation of work or Results of work, Critical analysis of work, Conclusion / Future work with Contribution / Novelty)
+Overall quality of writing
+Table of contents/structuring of sections, List of figures/list of tables; all of them referred in text
+All references cited in text
+Use of referencing format
+Grammar, Spellings and Formatting

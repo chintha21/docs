@@ -1,0 +1,5 @@
+Small introduction (about your project, research gap, and research questions) (~ 1 min)
+Literature Review (~ 3 mins)
+Methodology (Justify your selected approach) (~2 mins)
+Demonstrate your prototype (How your system works) (~ 12 mins)
+Evaluation Techniques ( ~2 mins)

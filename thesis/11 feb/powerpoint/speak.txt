@@ -1,0 +1,12 @@
+https://medium.com/mlearning-ai/what-are-the-types-of-recommendation-systems-3487cbafa7c9
+
+https://www.almabetter.com/bytes/articles/types-of-recommendation-systems-how-they-work-and-their-use-cases
+ 
+Many ecommerce companies utilizing the power of recommending systems by implementing in their websites to boost their sales.
+
+With the increase of online shopping items, the need for giving the confidence in buying products has been increased. thats why the recommendation systems has been introduced to the world. 
+
+Machine learning technique can be used to solve so many problems in real world. 
+but making product recommendation is a widely known application of machine learning.
+
+https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd

@@ -1,0 +1,31 @@
+Final Presentation - Evaluation Criteria
+
+
+1) General introduction to the problem: The candidate was able to present the problem in sufficient detail.
+
+2) Literature review: The candidate demonstrated a sufficient understanding of up-to-date literature in the area of research (focused and concise).
+
+3) Research gaps: The candidate presented the identified research gaps through a systematic presentation of literature.
+
+4) Research approach / Methodology: The candidate was able to present and answer questions on the selected research approach/methodology (clear and appropriate).
+
+5) Design and Implementation: The candidate had presented the research design with sufficient details and Implementation
+
+6) Evaluation: The student explained the validation & results.
+
+7) Overall project completeness or contribution: The candidate presented the research contribution of his/her research in computing with sufficient details.
+
+8) Conclusion/ Future Work: The candidate presented and identified the future work and concluded the research work carried out appropriately.
+
+9) The overall quality of the presentation.
+
+Finally, students need to demonstrate their work/system to the examiners.
+
+Students will be given 30 mins for the presentation & demonstration, 15 min for the Q&A.
+
+
+
+
+5. Highlight the Contributions and Significance of the Project
+When creating content for your final year project, it's important to highlight the contributions and significance of your project. This can include discussing how your research builds on existing knowledge in your field or addresses a specific gap or issue. 
+You can also discuss the potential impact of your research on society, and how it can inform future research or policy decisions. Use bullet points to break down your contributions and significance into manageable sections, and explain why they are important. 

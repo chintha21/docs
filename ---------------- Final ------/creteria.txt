@@ -1,0 +1,26 @@
+Dear Students,
+
+During your final defense (your presentation + demonstration + Q&A) we basically evaluate how well you have covered the following areas in your MCS project. So you can plan to touch upon these areas during your defense to convince examiners.
+
+
+Project scope and Introduction - The candidate provided a decent background on the subject, addressed a suitable scope, and presented the research problem with adequate detail.
+
+Literature Review - The candidate was able to present a thorough literature review and identified a clear research gap(s).
+
+Novelty or Innovativeness of the proposed solution.
+
+Research Methodology or Approach of the project - The candidate was able to present a research approach / methodology clearly and was able to justify it.
+
+Implementation (completeness) of the solution - The student was able to show a proof-of-concept prototype / algorithm / theory / system / or design with sufficient evidence.
+
+Evaluation - The student properly evaluated the proposed solution and carefully analyzed the results.
+
+System Demonstration - The student was able to show how the proposed solution works.
+
+Overall computing contribution of the work
+
+Quality of the presentation.
+
+
+Best Regards,
+-Kasun Karunanayaka
